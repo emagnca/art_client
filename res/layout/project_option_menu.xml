@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/new_project"
+        android:title="Nytt Projekt" />
+<!--
+  <item android:id="@+id/start_gps"
+        android:title="Starta gps" />
+  <item android:id="@+id/stop_gps"
+        android:title="stop_gps" />
+-->
+</menu>

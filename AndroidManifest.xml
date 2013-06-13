@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.cc.cg"
+      android:versionCode="1"
+      android:versionName="1.2">
+    <application android:label="@string/app_name" 
+		 android:icon="@drawable/logo_app_main"
+		 android:screenOrientation="portrait">
+        <activity android:name=".MyTabActivity"
+		  android:screenOrientation="portrait"
+                  android:theme="@android:style/Theme.NoTitleBar">
+          <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+            <category android:name="android.intent.category.LAUNCHER" />
+          </intent-filter>
+        </activity>
+	<activity android:name=".SettingsActivity"/>
+	<activity android:name=".TimeActivity" />
+	<activity android:name=".ProjectListActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+	<activity android:name=".ProjectList"/>
+	<activity android:name=".MyMapView"/>
+	<activity android:name=".ReportActivity"/>
+	<activity android:name=".MsgPopupActivity"/>
+	<activity android:name=".SimpleForm" android:theme="@android:style/Theme.Translucent"/>
+	<activity android:name=".SimpleListActivity" android:theme="@android:style/Theme.Translucent"/>
+
+	<service android:name=".LocationService">
+	</service>
+
+	<service android:name=".BatteryLoggerService" android:label="MyBatteryReceiver">
+	  <intent-filter>
+	    <action android:name="android.intent.action.BATTERY_CHANGED" />
+	  </intent-filter>
+	</service>
+
+	<receiver android:name=".AutoStart" android:label="@string/app_name">
+	  <intent-filter>
+	    <action android:name="android.intent.action.BOOT_COMPLETED" />
+	    <action android:name="android.intent.action.ACTION_SHUTDOWN" />
+	    <category android:name="android.intent.category.LAUNCHER" />
+	  </intent-filter>
+	</receiver>
+
+	<receiver android:name=".PositionReporter" />
+
+	<uses-library android:name="com.google.android.maps" />
+    </application>
+    
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />    
+    <uses-permission android:name="android.permission.VIBRATE" />    
+    <uses-permission android:name="android.permission.INTERNET" />    
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.READ_CALENDAR"/>
+    <uses-permission android:name="android.permission.WRITE_CALENDAR"/>
+<!--    <uses-permission android:name="android.permission.BATTERY_STATS" />    -->
+
+</manifest> 

@@ -1,0 +1,2252 @@
+--------- beginning of /dev/log/main
+[ 03-18 14:07:49.770  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:07:49.770  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:07:49.770  3929:0xf59 D/LocationService ]
+Meters from last location = 1.454848
+
+[ 03-18 14:07:49.770  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:07:49.770  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71946107142857 longitude=11.947186271428569 accuracy: 56.0 meters isBetter: true
+
+[ 03-18 14:07:49.770  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.71946107142857,11.947186271428569
+
+[ 03-18 14:07:49.810  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 162.73708 meters. 11.94453
+
+[ 03-18 14:07:49.810  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1614.886 meters. 11.941364
+
+[ 03-18 14:07:49.810  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:07:49.810  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:07:49.810  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:07:49.820  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:07:49.820  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:07:49.820  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:07:49.820  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:07:49.820  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:07:49.820  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:07:49.820  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71946107142857 longitude=11.947186271428569 accuracy: 56.0 meters isBetter: false
+
+[ 03-18 14:07:49.820  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:07:49.820  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:10:49.810  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:10:49.810  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:10:49.810  3929:0xf59 D/LocationService ]
+Meters from last location = 3.5082777
+
+[ 03-18 14:10:49.810  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:10:49.810  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71943258 longitude=11.94721138 accuracy: 56.0 meters isBetter: true
+
+[ 03-18 14:10:49.810  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.71943258,11.94721138
+
+[ 03-18 14:10:49.830  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 164.95143 meters. 11.94453
+
+[ 03-18 14:10:49.830  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1612.1101 meters. 11.941364
+
+[ 03-18 14:10:49.830  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:10:49.840  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71943258 longitude=11.94721138 accuracy: 56.0 meters isBetter: false
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:10:49.840  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:13:49.821  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:13:49.821  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:13:49.821  3929:0xf59 D/LocationService ]
+Meters from last location = 2.088063
+
+[ 03-18 14:13:49.821  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:13:49.821  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719450800000004 longitude=11.947203120000001 accuracy: 56.0 meters isBetter: true
+
+[ 03-18 14:13:49.821  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.719450800000004,11.947203120000001
+
+[ 03-18 14:13:49.850  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 163.9815 meters. 11.94453
+
+[ 03-18 14:13:49.850  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1613.9851 meters. 11.941364
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:13:49.850  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719450800000004 longitude=11.947203120000001 accuracy: 56.0 meters isBetter: false
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:13:49.850  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:16:49.870  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:16:49.870  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:16:49.870  3929:0xf59 D/LocationService ]
+Meters from last location = 2.1256616
+
+[ 03-18 14:16:49.870  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:16:49.870  3929:0xf59 D/LocationService ]
+network - new location latitude=57.7194422 longitude=11.9472349625 accuracy: 56.0 meters isBetter: true
+
+[ 03-18 14:16:49.870  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.7194422,11.9472349625
+
+[ 03-18 14:16:49.910  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 166.05287 meters. 11.94453
+
+[ 03-18 14:16:49.910  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1613.4604 meters. 11.941364
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:16:49.910  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+network - new location latitude=57.7194422 longitude=11.9472349625 accuracy: 56.0 meters isBetter: false
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:16:49.910  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:19:49.890  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:19:49.890  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:19:49.890  3929:0xf59 D/LocationService ]
+Meters from last location = 3.1520202
+
+[ 03-18 14:19:49.890  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:19:49.890  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719461914285716 longitude=11.947197014285715 accuracy: 56.0 meters isBetter: true
+
+[ 03-18 14:19:49.890  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.719461914285716,11.947197014285715
+
+[ 03-18 14:19:50.010  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 163.33823 meters. 11.94453
+
+[ 03-18 14:19:50.010  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1615.1155 meters. 11.941364
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:19:50.010  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719461914285716 longitude=11.947197014285715 accuracy: 56.0 meters isBetter: false
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:19:50.010  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:22:54.800  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:22:54.800  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:22:54.800  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:22:54.800  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:22:54.800  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719461914285716 longitude=11.947197014285715 accuracy: 56.0 meters isBetter: true
+
+[ 03-18 14:22:54.800  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.719461914285716,11.947197014285715
+
+[ 03-18 14:22:54.830  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 163.33823 meters. 11.94453
+
+[ 03-18 14:22:54.830  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1615.1155 meters. 11.941364
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:22:54.830  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719461914285716 longitude=11.947197014285715 accuracy: 56.0 meters isBetter: false
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:22:54.830  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:22:55.450  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+Meters from last location = 87.30243
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=true,isFromSameProvider=true
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719339 longitude=11.9457502 accuracy: 1007.0 meters isBetter: false
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+Network provider accuracy: 1007.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+Turning on gps
+
+[ 03-18 14:22:55.450  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+Meters from last location = 87.30243
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=true,isFromSameProvider=true
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719339 longitude=11.9457502 accuracy: 1007.0 meters isBetter: false
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:22:55.450  3929:0xf59 D/LocationService ]
+Network provider accuracy: 1007.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:22:57.800  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+Meters from last location = 87.30243
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=true,isFromSameProvider=true
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719339 longitude=11.9457502 accuracy: 1007.0 meters isBetter: false
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+Network provider accuracy: 1007.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:22:57.800  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+Meters from last location = 87.30243
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=true,isFromSameProvider=true
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719339 longitude=11.9457502 accuracy: 1007.0 meters isBetter: false
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:22:57.800  3929:0xf59 D/LocationService ]
+Network provider accuracy: 1007.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:23:02.730  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:23:02.730  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:02.730  3929:0xf59 D/LocationService ]
+Meters from last location = 87.30243
+
+[ 03-18 14:23:02.730  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:02.730  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:23:02.730  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=true,isFromSameProvider=true
+
+[ 03-18 14:23:02.730  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719339 longitude=11.9457502 accuracy: 1007.0 meters isBetter: false
+
+[ 03-18 14:23:02.730  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:23:02.730  3929:0xf59 D/LocationService ]
+Network provider accuracy: 1007.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:23:02.740  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:23:02.740  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:02.740  3929:0xf59 D/LocationService ]
+Meters from last location = 87.30243
+
+[ 03-18 14:23:02.740  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:02.740  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:23:02.740  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=true,isFromSameProvider=true
+
+[ 03-18 14:23:02.740  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719339 longitude=11.9457502 accuracy: 1007.0 meters isBetter: false
+
+[ 03-18 14:23:02.740  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:23:02.740  3929:0xf59 D/LocationService ]
+Network provider accuracy: 1007.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:23:02.970  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:23:02.970  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:02.970  3929:0xf59 D/LocationService ]
+Meters from last location = 87.30243
+
+[ 03-18 14:23:02.970  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:02.970  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:23:02.970  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=true,isFromSameProvider=true
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719339 longitude=11.9457502 accuracy: 1007.0 meters isBetter: false
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+Network provider accuracy: 1007.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:23:02.980  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+Meters from last location = 87.30243
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=true,isFromSameProvider=true
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719339 longitude=11.9457502 accuracy: 1007.0 meters isBetter: false
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:23:02.980  3929:0xf59 D/LocationService ]
+Network provider accuracy: 1007.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:23:11.010  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:11.010  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:11.010  3929:0xf59 D/LocationService ]
+Meters from last location = 9.420571
+
+[ 03-18 14:23:11.010  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:11.010  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.71937772 longitude=11.94721221 accuracy: 4.0 meters isBetter: true
+
+[ 03-18 14:23:11.010  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.71937772,11.94721221
+
+[ 03-18 14:23:11.050  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 166.61992 meters. 11.94453
+
+[ 03-18 14:23:11.050  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1606.156 meters. 11.941364
+
+[ 03-18 14:23:11.050  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:11.050  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:12.011  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:12.011  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:12.011  3929:0xf59 D/LocationService ]
+Meters from last location = 8.797522
+
+[ 03-18 14:23:12.011  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:12.011  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.71945639 longitude=11.9471989 accuracy: 96.0 meters isBetter: true
+
+[ 03-18 14:23:12.011  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.71945639,11.9471989
+
+[ 03-18 14:23:12.071  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 163.59042 meters. 11.94453
+
+[ 03-18 14:23:12.071  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1614.5388 meters. 11.941364
+
+[ 03-18 14:23:12.071  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:12.071  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:13.030  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:13.030  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:13.040  3929:0xf59 D/LocationService ]
+Meters from last location = 3.497744
+
+[ 03-18 14:23:13.040  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:13.040  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.71943304 longitude=11.94723815 accuracy: 64.0 meters isBetter: true
+
+[ 03-18 14:23:13.040  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.71943304,11.94723815
+
+[ 03-18 14:23:13.250  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 166.48479 meters. 11.94453
+
+[ 03-18 14:23:13.250  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1612.5059 meters. 11.941364
+
+[ 03-18 14:23:13.250  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:13.250  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:14.030  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:14.030  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:14.030  3929:0xf59 D/LocationService ]
+Meters from last location = 4.6624584
+
+[ 03-18 14:23:14.030  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:14.030  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.71946144 longitude=11.94718067 accuracy: 48.0 meters isBetter: true
+
+[ 03-18 14:23:14.030  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.71946144,11.94718067
+
+[ 03-18 14:23:14.080  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 162.40285 meters. 11.94453
+
+[ 03-18 14:23:14.080  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1614.8544 meters. 11.941364
+
+[ 03-18 14:23:14.080  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:14.090  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:15.030  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:15.030  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:15.030  3929:0xf59 D/LocationService ]
+Meters from last location = 1.7555864
+
+[ 03-18 14:23:15.030  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:15.030  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.71947717 longitude=11.94718258 accuracy: 48.0 meters isBetter: true
+
+[ 03-18 14:23:15.030  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.71947717,11.94718258
+
+[ 03-18 14:23:15.100  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 162.11601 meters. 11.94453
+
+[ 03-18 14:23:15.100  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1616.5898 meters. 11.941364
+
+[ 03-18 14:23:15.100  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:15.100  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:16.030  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:16.030  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:16.030  3929:0xf59 D/LocationService ]
+Meters from last location = 0.70407176
+
+[ 03-18 14:23:16.030  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:16.030  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.71947273 longitude=11.94719099 accuracy: 48.0 meters isBetter: true
+
+[ 03-18 14:23:16.030  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.71947273,11.94719099
+
+[ 03-18 14:23:16.070  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 162.71483 meters. 11.94453
+
+[ 03-18 14:23:16.070  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1616.2146 meters. 11.941364
+
+[ 03-18 14:23:16.070  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:16.070  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:17.030  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:17.030  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:17.030  3929:0xf59 D/LocationService ]
+Meters from last location = 2.7419827
+
+[ 03-18 14:23:17.030  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:17.030  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.7194968 longitude=11.94718132 accuracy: 32.0 meters isBetter: true
+
+[ 03-18 14:23:17.030  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.7194968,11.94718132
+
+[ 03-18 14:23:17.160  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 161.57173 meters. 11.94453
+
+[ 03-18 14:23:17.160  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1618.7092 meters. 11.941364
+
+[ 03-18 14:23:17.160  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:17.160  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:18.030  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:18.030  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:18.030  3929:0xf59 D/LocationService ]
+Meters from last location = 0.71093804
+
+[ 03-18 14:23:18.030  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:18.040  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.71949983 longitude=11.94717082 accuracy: 32.0 meters isBetter: true
+
+[ 03-18 14:23:18.040  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.71949983,11.94717082
+
+[ 03-18 14:23:18.080  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 160.8894 meters. 11.94453
+
+[ 03-18 14:23:18.080  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1618.9049 meters. 11.941364
+
+[ 03-18 14:23:18.080  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:18.080  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:19.020  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:19.020  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:19.020  3929:0xf59 D/LocationService ]
+Meters from last location = 0.6509721
+
+[ 03-18 14:23:19.020  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:19.030  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.7195039 longitude=11.94716298 accuracy: 24.0 meters isBetter: true
+
+[ 03-18 14:23:19.030  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.7195039,11.94716298
+
+[ 03-18 14:23:19.060  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 160.33856 meters. 11.94453
+
+[ 03-18 14:23:19.060  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1619.2478 meters. 11.941364
+
+[ 03-18 14:23:19.060  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:19.060  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:20.030  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:20.030  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:20.030  3929:0xf59 D/LocationService ]
+Meters from last location = 0.94924414
+
+[ 03-18 14:23:20.030  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:20.030  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.71950887 longitude=11.94717592 accuracy: 24.0 meters isBetter: true
+
+[ 03-18 14:23:20.030  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.71950887,11.94717592
+
+[ 03-18 14:23:20.060  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 160.98088 meters. 11.94453
+
+[ 03-18 14:23:20.060  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1619.9534 meters. 11.941364
+
+[ 03-18 14:23:20.060  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:20.060  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:23:21.041  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:23:21.041  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:23:21.041  3929:0xf59 D/LocationService ]
+Meters from last location = 0.96828395
+
+[ 03-18 14:23:21.041  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:23:21.041  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.71950118 longitude=11.94716834 accuracy: 16.0 meters isBetter: true
+
+[ 03-18 14:23:21.041  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.71950118,11.94716834
+
+[ 03-18 14:23:21.101  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 160.71362 meters. 11.94453
+
+[ 03-18 14:23:21.110  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1619.0201 meters. 11.941364
+
+[ 03-18 14:23:21.110  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:23:21.110  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:25:49.960  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:25:49.960  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:25:49.960  3929:0xf59 D/LocationService ]
+Meters from last location = 12.421298
+
+[ 03-18 14:25:49.960  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:25:49.960  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719399 longitude=11.947251875 accuracy: 56.0 meters isBetter: true
+
+[ 03-18 14:25:49.960  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.719399,11.947251875
+
+[ 03-18 14:25:49.990  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 168.24431 meters. 11.94453
+
+[ 03-18 14:25:49.990  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1608.9836 meters. 11.941364
+
+[ 03-18 14:25:49.990  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:25:49.990  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:25:49.990  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:25:49.990  3929:0xf59 D/LocationService ]
+Turning off gps
+
+[ 03-18 14:25:50.000  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:25:50.000  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:25:50.000  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:25:50.000  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:25:50.000  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:25:50.000  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:25:50.000  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719399 longitude=11.947251875 accuracy: 56.0 meters isBetter: false
+
+[ 03-18 14:25:50.000  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:25:50.000  3929:0xf59 D/LocationService ]
+Network provider accuracy: 56.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:28:51.640  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:28:51.640  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:28:51.640  3929:0xf59 D/LocationService ]
+Meters from last location = 65.04377
+
+[ 03-18 14:28:51.640  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:28:51.640  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719568329999994 longitude=11.94620732 accuracy: 65.0 meters isBetter: true
+
+[ 03-18 14:28:51.640  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.719568329999994,11.94620732
+
+[ 03-18 14:28:51.770  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 103.234955 meters. 11.94453
+
+[ 03-18 14:28:51.770  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1615.111 meters. 11.941364
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+Network provider accuracy: 65.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:28:51.770  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719568329999994 longitude=11.94620732 accuracy: 65.0 meters isBetter: false
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:28:51.770  3929:0xf59 D/LocationService ]
+Network provider accuracy: 65.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:31:50.449  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:31:50.449  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:31:50.449  3929:0xf59 D/LocationService ]
+Meters from last location = 5.0955405
+
+[ 03-18 14:31:50.449  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:31:50.449  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71956215 longitude=11.946292040000001 accuracy: 62.0 meters isBetter: true
+
+[ 03-18 14:31:50.449  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.71956215,11.946292040000001
+
+[ 03-18 14:31:50.469  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 108.29722 meters. 11.94453
+
+[ 03-18 14:31:50.469  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1615.3445 meters. 11.941364
+
+[ 03-18 14:31:50.469  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:31:50.469  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:31:50.469  3929:0xf59 D/LocationService ]
+Network provider accuracy: 62.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:31:50.479  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:31:50.479  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:31:50.479  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:31:50.479  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:31:50.479  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:31:50.479  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:31:50.479  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71956215 longitude=11.946292040000001 accuracy: 62.0 meters isBetter: false
+
+[ 03-18 14:31:50.479  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:31:50.479  3929:0xf59 D/LocationService ]
+Network provider accuracy: 62.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:31:54.589  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:31:54.589  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:31:54.589  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:31:54.589  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:31:54.589  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71956215 longitude=11.946292040000001 accuracy: 62.0 meters isBetter: true
+
+[ 03-18 14:31:54.589  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.71956215,11.946292040000001
+
+[ 03-18 14:31:54.609  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 108.29722 meters. 11.94453
+
+[ 03-18 14:31:54.609  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1615.3445 meters. 11.941364
+
+[ 03-18 14:31:54.609  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:31:54.609  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:31:54.609  3929:0xf59 D/LocationService ]
+Network provider accuracy: 62.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:31:54.619  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:31:54.619  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:31:54.619  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:31:54.619  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:31:54.619  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:31:54.619  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:31:54.619  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71956215 longitude=11.946292040000001 accuracy: 62.0 meters isBetter: false
+
+[ 03-18 14:31:54.619  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:31:54.619  3929:0xf59 D/LocationService ]
+Network provider accuracy: 62.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:34:55.829  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:34:55.829  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:34:55.829  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:34:55.829  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:34:55.829  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71956215 longitude=11.946292040000001 accuracy: 62.0 meters isBetter: true
+
+[ 03-18 14:34:55.829  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.71956215,11.946292040000001
+
+[ 03-18 14:34:55.869  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 108.29722 meters. 11.94453
+
+[ 03-18 14:34:55.869  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1615.3445 meters. 11.941364
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+Network provider accuracy: 62.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:34:55.869  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+network - new location latitude=57.71956215 longitude=11.946292040000001 accuracy: 62.0 meters isBetter: false
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:34:55.869  3929:0xf59 D/LocationService ]
+Network provider accuracy: 62.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:34:57.659  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:34:57.659  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:34:57.659  3929:0xf59 D/LocationService ]
+Meters from last location = 8.0968075
+
+[ 03-18 14:34:57.659  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:34:57.669  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719545720000006 longitude=11.946159690000002 accuracy: 67.0 meters isBetter: true
+
+[ 03-18 14:34:57.669  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.719545720000006,11.946159690000002
+
+[ 03-18 14:34:57.699  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 101.16494 meters. 11.94453
+
+[ 03-18 14:34:57.699  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1612.1277 meters. 11.941364
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+Network provider accuracy: 67.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:34:57.699  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719545720000006 longitude=11.946159690000002 accuracy: 67.0 meters isBetter: false
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:34:57.699  3929:0xf59 D/LocationService ]
+Network provider accuracy: 67.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:37:51.529  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:37:51.529  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:37:51.529  3929:0xf59 D/LocationService ]
+Meters from last location = 65.647446
+
+[ 03-18 14:37:51.529  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:37:51.529  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719442900000004 longitude=11.94507501111111 accuracy: 58.0 meters isBetter: true
+
+[ 03-18 14:37:51.529  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.719442900000004,11.94507501111111
+
+[ 03-18 14:37:51.559  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 51.348526 meters. 11.94453
+
+[ 03-18 14:37:51.559  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 1590.587 meters. 11.941364
+
+[ 03-18 14:37:51.559  3929:0xf59 D/LocationService ]
+Closest project=85 lastid=85
+
+[ 03-18 14:37:51.559  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:37:51.559  3929:0xf59 D/LocationService ]
+Network provider accuracy: 58.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:37:51.569  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:37:51.569  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:37:51.569  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:37:51.569  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:37:51.569  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:37:51.569  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:37:51.569  3929:0xf59 D/LocationService ]
+network - new location latitude=57.719442900000004 longitude=11.94507501111111 accuracy: 58.0 meters isBetter: false
+
+[ 03-18 14:37:51.569  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:37:51.569  3929:0xf59 D/LocationService ]
+Network provider accuracy: 58.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:40:51.719  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:40:51.719  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:40:51.719  3929:0xf59 D/LocationService ]
+Meters from last location = 1354.9078
+
+[ 03-18 14:40:51.719  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:40:51.719  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70783784000001 longitude=11.938254729999999 accuracy: 83.0 meters isBetter: true
+
+[ 03-18 14:40:51.719  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.70783784000001,11.938254729999999
+
+[ 03-18 14:40:51.749  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1383.7655 meters. 11.94453
+
+[ 03-18 14:40:51.749  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 338.00504 meters. 11.941364
+
+[ 03-18 14:40:51.749  3929:0xf59 D/LocationService ]
+Closest project=-1 lastid=85
+
+[ 03-18 14:40:51.749  3929:0xf59 D/LocationService ]
+Setting isreporting=false
+
+[ 03-18 14:40:51.799  3929:0xf59 D/LocationService ]
+Sending notification
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+Network provider accuracy: 83.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:40:51.939  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70783784000001 longitude=11.938254729999999 accuracy: 83.0 meters isBetter: false
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:40:51.939  3929:0xf59 D/LocationService ]
+Network provider accuracy: 83.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:43:51.670  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:43:51.670  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:43:51.670  3929:0xf59 D/LocationService ]
+Meters from last location = 101.5692
+
+[ 03-18 14:43:51.670  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:43:51.670  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:43:51.670  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:43:51.670  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70732746000001 longitude=11.939666710000001 accuracy: 121.0 meters isBetter: false
+
+[ 03-18 14:43:51.670  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:43:51.670  3929:0xf59 D/LocationService ]
+Network provider accuracy: 121.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:43:51.670  3929:0xf59 D/LocationService ]
+Turning on gps
+
+[ 03-18 14:43:51.680  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:43:51.680  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:43:51.680  3929:0xf59 D/LocationService ]
+Meters from last location = 101.5692
+
+[ 03-18 14:43:51.680  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:43:51.680  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=true
+
+[ 03-18 14:43:51.680  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:43:51.680  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70732746000001 longitude=11.939666710000001 accuracy: 121.0 meters isBetter: false
+
+[ 03-18 14:43:51.680  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:43:51.680  3929:0xf59 D/LocationService ]
+Network provider accuracy: 121.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:43:55.460  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:43:55.460  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:43:55.460  3929:0xf59 D/LocationService ]
+Meters from last location = 235.10373
+
+[ 03-18 14:43:55.460  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:43:55.470  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.7064942 longitude=11.94129641 accuracy: 24.0 meters isBetter: true
+
+[ 03-18 14:43:55.470  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.7064942,11.94129641
+
+[ 03-18 14:43:55.510  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1494.3826 meters. 11.94453
+
+[ 03-18 14:43:55.510  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 133.06201 meters. 11.941364
+
+[ 03-18 14:43:55.510  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=-1
+
+[ 03-18 14:43:55.510  3929:0xf59 D/LocationService ]
+Closest project is: 88 at 133.06201171875 meters
+
+[ 03-18 14:43:55.520  3929:0xf59 D/LocationService ]
+Sending notification
+
+[ 03-18 14:43:55.880  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:43:56.450  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:43:56.450  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:43:56.450  3929:0xf59 D/LocationService ]
+Meters from last location = 3.697464
+
+[ 03-18 14:43:56.450  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:43:56.450  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70650346 longitude=11.94123685 accuracy: 12.0 meters isBetter: true
+
+[ 03-18 14:43:56.450  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70650346,11.94123685
+
+[ 03-18 14:43:56.500  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1493.8223 meters. 11.94453
+
+[ 03-18 14:43:56.500  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 134.24648 meters. 11.941364
+
+[ 03-18 14:43:56.500  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:43:56.500  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:43:57.450  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:43:57.450  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:43:57.450  3929:0xf59 D/LocationService ]
+Meters from last location = 0.9207767
+
+[ 03-18 14:43:57.450  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:43:57.450  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70650713 longitude=11.94125069 accuracy: 16.0 meters isBetter: true
+
+[ 03-18 14:43:57.450  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70650713,11.94125069
+
+[ 03-18 14:43:57.490  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1493.3088 meters. 11.94453
+
+[ 03-18 14:43:57.490  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 134.61063 meters. 11.941364
+
+[ 03-18 14:43:57.490  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:43:57.490  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:44:03.500  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:44:03.500  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:44:03.500  3929:0xf59 D/LocationService ]
+Meters from last location = 6.132159
+
+[ 03-18 14:44:03.500  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:44:03.500  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70645788 longitude=11.9412047 accuracy: 24.0 meters isBetter: true
+
+[ 03-18 14:44:03.500  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70645788,11.9412047
+
+[ 03-18 14:44:03.560  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1499.1069 meters. 11.94453
+
+[ 03-18 14:44:03.560  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 129.30516 meters. 11.941364
+
+[ 03-18 14:44:03.560  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:44:03.560  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:44:04.500  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:44:04.500  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:44:04.500  3929:0xf59 D/LocationService ]
+Meters from last location = 5.0175123
+
+[ 03-18 14:44:04.500  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:44:04.500  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70643728 longitude=11.94127955 accuracy: 24.0 meters isBetter: true
+
+[ 03-18 14:44:04.510  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70643728,11.94127955
+
+[ 03-18 14:44:04.550  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1500.7986 meters. 11.94453
+
+[ 03-18 14:44:04.550  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 126.76168 meters. 11.941364
+
+[ 03-18 14:44:04.550  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:44:04.550  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:44:05.500  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:44:05.500  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:44:05.500  3929:0xf59 D/LocationService ]
+Meters from last location = 2.670763
+
+[ 03-18 14:44:05.500  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:44:05.500  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70643146 longitude=11.94123609 accuracy: 16.0 meters isBetter: true
+
+[ 03-18 14:44:05.500  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70643146,11.94123609
+
+[ 03-18 14:44:05.550  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1501.7778 meters. 11.94453
+
+[ 03-18 14:44:05.560  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 126.24399 meters. 11.941364
+
+[ 03-18 14:44:05.560  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:44:05.560  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:44:06.500  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:44:06.500  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:44:06.500  3929:0xf59 D/LocationService ]
+Meters from last location = 2.3138292
+
+[ 03-18 14:44:06.500  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:44:06.500  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70641073 longitude=11.94123866 accuracy: 16.0 meters isBetter: true
+
+[ 03-18 14:44:06.500  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70641073,11.94123866
+
+[ 03-18 14:44:06.550  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1504.0469 meters. 11.94453
+
+[ 03-18 14:44:06.550  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 123.9302 meters. 11.941364
+
+[ 03-18 14:44:06.550  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:44:06.560  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:44:07.500  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:44:07.500  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:44:07.500  3929:0xf59 D/LocationService ]
+Meters from last location = 3.4898787
+
+[ 03-18 14:44:07.500  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:44:07.500  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70638694 longitude=11.94120056 accuracy: 16.0 meters isBetter: true
+
+[ 03-18 14:44:07.500  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70638694,11.94120056
+
+[ 03-18 14:44:07.630  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1506.9712 meters. 11.94453
+
+[ 03-18 14:44:07.630  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 121.44668 meters. 11.941364
+
+[ 03-18 14:44:07.630  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:44:07.630  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:44:08.520  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:44:08.520  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:44:08.520  3929:0xf59 D/LocationService ]
+Meters from last location = 4.8441367
+
+[ 03-18 14:44:08.520  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:44:08.520  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70638164 longitude=11.94128121 accuracy: 12.0 meters isBetter: true
+
+[ 03-18 14:44:08.520  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70638164,11.94128121
+
+[ 03-18 14:44:08.570  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1506.931 meters. 11.94453
+
+[ 03-18 14:44:08.570  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 120.56596 meters. 11.941364
+
+[ 03-18 14:44:08.570  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:44:08.570  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:44:09.500  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:44:09.500  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:44:09.500  3929:0xf59 D/LocationService ]
+Meters from last location = 3.6749165
+
+[ 03-18 14:44:09.500  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:44:09.500  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70634974 longitude=11.94126545 accuracy: 12.0 meters isBetter: true
+
+[ 03-18 14:44:09.500  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70634974,11.94126545
+
+[ 03-18 14:44:09.560  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1510.5752 meters. 11.94453
+
+[ 03-18 14:44:09.560  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 117.05965 meters. 11.941364
+
+[ 03-18 14:44:09.560  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:44:09.560  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:44:10.520  3929:0xf59 I/LocationService ]
+New location from gps.Thread=1
+
+[ 03-18 14:44:10.520  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:44:10.520  3929:0xf59 D/LocationService ]
+Meters from last location = 2.609896
+
+[ 03-18 14:44:10.520  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:44:10.520  3929:0xf59 D/LocationService ]
+gps - new location latitude=57.70632696 longitude=11.94125518 accuracy: 12.0 meters isBetter: true
+
+[ 03-18 14:44:10.520  3929:0xf59 I/LocationService ]
+Yes, got a better location from gps:57.70632696,11.94125518
+
+[ 03-18 14:44:10.610  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1513.1699 meters. 11.94453
+
+[ 03-18 14:44:10.610  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 114.55889 meters. 11.941364
+
+[ 03-18 14:44:10.610  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:44:10.610  3929:0xf59 D/LocationService ]
+In checkProviders provider: gps
+
+[ 03-18 14:46:53.510  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:46:53.510  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:46:53.510  3929:0xf59 D/LocationService ]
+Meters from last location = 39.474964
+
+[ 03-18 14:46:53.510  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:46:53.510  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70600537 longitude=11.94097678 accuracy: 60.0 meters isBetter: true
+
+[ 03-18 14:46:53.530  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.70600537,11.94097678
+
+[ 03-18 14:46:53.560  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1550.8729 meters. 11.94453
+
+[ 03-18 14:46:53.560  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 81.8804 meters. 11.941364
+
+[ 03-18 14:46:53.560  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:46:53.560  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:46:53.560  3929:0xf59 D/LocationService ]
+Network provider accuracy: 60.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 14:46:53.560  3929:0xf59 D/LocationService ]
+Turning off gps
+
+[ 03-18 14:46:53.570  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:46:53.570  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:46:53.570  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:46:53.570  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:46:53.570  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:46:53.570  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:46:53.570  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70600537 longitude=11.94097678 accuracy: 60.0 meters isBetter: false
+
+[ 03-18 14:46:53.570  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:46:53.570  3929:0xf59 D/LocationService ]
+Network provider accuracy: 60.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:49:55.079  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:49:55.079  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:49:55.079  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:49:55.079  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:49:55.079  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70600537 longitude=11.94097678 accuracy: 60.0 meters isBetter: true
+
+[ 03-18 14:49:55.079  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.70600537,11.94097678
+
+[ 03-18 14:49:55.119  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1550.8729 meters. 11.94453
+
+[ 03-18 14:49:55.129  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 81.8804 meters. 11.941364
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+Network provider accuracy: 60.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:49:55.129  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70600537 longitude=11.94097678 accuracy: 60.0 meters isBetter: false
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:49:55.129  3929:0xf59 D/LocationService ]
+Network provider accuracy: 60.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:49:57.269  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:49:57.269  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:49:57.269  3929:0xf59 D/LocationService ]
+Meters from last location = 9.220539
+
+[ 03-18 14:49:57.269  3929:0xf59 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 14:49:57.269  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70608503999999 longitude=11.941018840000002 accuracy: 60.0 meters isBetter: true
+
+[ 03-18 14:49:57.269  3929:0xf59 I/LocationService ]
+Yes, got a better location from network:57.70608503999999,11.941018840000002
+
+[ 03-18 14:49:57.299  3929:0xf59 I/LocationService ]
+Distance from project: Mikael Arnelind is 1541.7411 meters. 11.94453
+
+[ 03-18 14:49:57.299  3929:0xf59 I/LocationService ]
+Distance from project: Ericsson is 89.820694 meters. 11.941364
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+Closest project=88 lastid=88
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+Network provider accuracy: 60.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:49:57.299  3929:0xf59 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+Is better location?
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+network - new location latitude=57.70608503999999 longitude=11.941018840000002 accuracy: 60.0 meters isBetter: false
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 14:49:57.299  3929:0xf59 D/LocationService ]
+Network provider accuracy: 60.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 14:51:22.639  3929:0xf59 D/LocationService ]
+network is disabled
+
+[ 03-18 14:51:22.649  3929:0xf59 D/LocationService ]
+network is disabled
+
+--------- beginning of /dev/log/system
+[ 03-18 14:58:23.859  3929:0xf59 D/LocationService ]
+network is enabled
+
+[ 03-18 14:58:23.869  3929:0xf59 D/LocationService ]
+network is enabled
+
+[ 03-18 15:02:52.249  5488:0x1570 I/LocationService ]
+onCreate Thread=1
+
+[ 03-18 15:02:52.329  5488:0x1570 I/LocationService ]
+LocationService starting up
+
+[ 03-18 15:02:52.339  5488:0x1570 D/LocationService ]
+=================Known projects============= no=0
+
+[ 03-18 15:02:52.349  5488:0x1570 I/LocationService ]
+LocationService starting up
+
+[ 03-18 15:02:52.369  5488:0x1570 D/LocationService ]
+=================Known projects============= no=0
+
+[ 03-18 15:02:55.319  5488:0x1570 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 15:02:55.319  5488:0x1570 D/LocationService ]
+Is better location?
+
+[ 03-18 15:02:55.319  5488:0x1570 D/LocationService ]
+network - new location latitude=57.7065067 longitude=11.94106 accuracy: 275.0 meters isBetter: true
+
+[ 03-18 15:02:55.319  5488:0x1570 I/LocationService ]
+Yes, got a better location from network:57.7065067,11.94106
+
+[ 03-18 15:02:55.349  5488:0x1570 D/LocationService ]
+Closest project=-1 lastid=-1000
+
+[ 03-18 15:02:55.349  5488:0x1570 D/LocationService ]
+Setting isreporting=false
+
+[ 03-18 15:02:55.359  5488:0x1570 D/LocationService ]
+Sending notification
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+Network provider accuracy: 275.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+Turning on gps
+
+[ 03-18 15:02:55.469  5488:0x1570 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+Is better location?
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+network - new location latitude=57.7065067 longitude=11.94106 accuracy: 275.0 meters isBetter: false
+
+[ 03-18 15:02:55.469  5488:0x1570 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 15:02:55.479  5488:0x1570 D/LocationService ]
+Network provider accuracy: 275.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 15:05:55.609  5488:0x1570 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 15:05:55.609  5488:0x1570 D/LocationService ]
+Is better location?
+
+[ 03-18 15:05:55.609  5488:0x1570 D/LocationService ]
+Meters from last location = 2.261256
+
+[ 03-18 15:05:55.609  5488:0x1570 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 15:05:55.609  5488:0x1570 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 15:05:55.619  5488:0x1570 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 15:05:55.619  5488:0x1570 D/LocationService ]
+network - new location latitude=57.70650365 longitude=11.9410975 accuracy: 275.0 meters isBetter: true
+
+[ 03-18 15:05:55.619  5488:0x1570 I/LocationService ]
+Yes, got a better location from network:57.70650365,11.9410975
+
+[ 03-18 15:05:55.639  5488:0x1570 D/LocationService ]
+Closest project=-1 lastid=-1
+
+[ 03-18 15:05:55.639  5488:0x1570 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 15:05:55.719  5488:0x1570 D/LocationService ]
+Network provider accuracy: 275.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 15:05:55.729  5488:0x1570 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 15:05:55.729  5488:0x1570 D/LocationService ]
+Is better location?
+
+[ 03-18 15:05:55.729  5488:0x1570 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 15:05:55.729  5488:0x1570 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 15:05:55.729  5488:0x1570 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 15:05:55.729  5488:0x1570 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 15:05:55.729  5488:0x1570 D/LocationService ]
+network - new location latitude=57.70650365 longitude=11.9410975 accuracy: 275.0 meters isBetter: false
+
+[ 03-18 15:05:55.729  5488:0x1570 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 15:05:55.729  5488:0x1570 D/LocationService ]
+Network provider accuracy: 275.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 15:06:53.369  5608:0x15e8 I/LocationService ]
+onCreate Thread=1
+
+[ 03-18 15:06:53.379  5608:0x15e8 I/LocationService ]
+LocationService starting up
+
+[ 03-18 15:06:53.399  5608:0x15e8 D/LocationService ]
+=================Known projects============= no=0
+
+[ 03-18 15:06:53.439  5608:0x15e8 I/LocationService ]
+LocationService starting up
+
+[ 03-18 15:06:53.449  5608:0x15e8 D/LocationService ]
+=================Known projects============= no=0
+
+[ 03-18 15:06:58.849  5608:0x15e8 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 15:06:58.849  5608:0x15e8 D/LocationService ]
+Is better location?
+
+[ 03-18 15:06:58.849  5608:0x15e8 D/LocationService ]
+network - new location latitude=57.70650365 longitude=11.9410975 accuracy: 275.0 meters isBetter: true
+
+[ 03-18 15:06:58.849  5608:0x15e8 I/LocationService ]
+Yes, got a better location from network:57.70650365,11.9410975
+
+[ 03-18 15:06:58.939  5608:0x15e8 D/LocationService ]
+Closest project=-1 lastid=-1000
+
+[ 03-18 15:06:58.949  5608:0x15e8 D/LocationService ]
+Setting isreporting=false
+
+[ 03-18 15:06:58.969  5608:0x15e8 D/LocationService ]
+Sending notification
+
+[ 03-18 15:06:59.059  5608:0x15e8 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 15:06:59.059  5608:0x15e8 D/LocationService ]
+Network provider accuracy: 275.0 isGpsRequested: false min nw accuracy: 100
+
+[ 03-18 15:06:59.059  5608:0x15e8 D/LocationService ]
+Turning on gps
+
+[ 03-18 15:06:59.059  5608:0x15e8 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 15:06:59.059  5608:0x15e8 D/LocationService ]
+Is better location?
+
+[ 03-18 15:06:59.059  5608:0x15e8 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 15:06:59.069  5608:0x15e8 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 15:06:59.069  5608:0x15e8 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 15:06:59.069  5608:0x15e8 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 15:06:59.069  5608:0x15e8 D/LocationService ]
+network - new location latitude=57.70650365 longitude=11.9410975 accuracy: 275.0 meters isBetter: false
+
+[ 03-18 15:06:59.069  5608:0x15e8 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 15:06:59.069  5608:0x15e8 D/LocationService ]
+Network provider accuracy: 275.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 15:10:03.469  5608:0x15e8 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 15:10:03.469  5608:0x15e8 D/LocationService ]
+Is better location?
+
+[ 03-18 15:10:03.469  5608:0x15e8 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 15:10:03.469  5608:0x15e8 D/LocationService ]
+IsClearlyNewer=true,isClearlyOlder=false
+
+[ 03-18 15:10:03.469  5608:0x15e8 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 15:10:03.469  5608:0x15e8 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 15:10:03.469  5608:0x15e8 D/LocationService ]
+network - new location latitude=57.70650365 longitude=11.9410975 accuracy: 275.0 meters isBetter: true
+
+[ 03-18 15:10:03.469  5608:0x15e8 I/LocationService ]
+Yes, got a better location from network:57.70650365,11.9410975
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+Closest project=-1 lastid=-1
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+Network provider accuracy: 275.0 isGpsRequested: true min nw accuracy: 100
+
+[ 03-18 15:10:03.519  5608:0x15e8 I/LocationService ]
+New location from network.Thread=1
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+Is better location?
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+Meters from last location = 0.0
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+IsClearlyNewer=false,isClearlyOlder=false
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+IsMoreAccurate=false,isLessAccurate=false
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+isClearlyLessAccurate=false,isFromSameProvider=true
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+network - new location latitude=57.70650365 longitude=11.9410975 accuracy: 275.0 meters isBetter: false
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+In checkProviders provider: network
+
+[ 03-18 15:10:03.519  5608:0x15e8 D/LocationService ]
+Network provider accuracy: 275.0 isGpsRequested: true min nw accuracy: 100
+

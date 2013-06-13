@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="#E8E8E8"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+
+<!-- 
+   Kronometer
+-->
+<TextView android:id="@+id/chronometer"
+              android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        android:paddingBottom="0dip"
+        android:paddingTop="0dip"
+        android:textColor="#404040"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:typeface="sans"
+	android:gravity="center"
+	android:text="00:00:00"
+        />
+
+<!-- 
+   Tidsintervall
+-->
+<TextView
+        android:id="@+id/timeInterval"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="0dip"
+        android:paddingBottom="5dip"
+        android:textColor="#404040"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:typeface="sans"
+	android:gravity="center"
+	android:text=""
+    />
+
+<!-- 
+   Knapp
+-->
+<Button
+    android:id="@+id/reportButton"
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content"
+    android:text="Start"
+    android:textColor="#FFFFFF"
+    android:typeface="serif"
+    android:textSize="15sp"
+    />
+
+
+<!-- 
+   Projekt
+-->
+<TextView
+   android:id="@+id/project"
+   android:text="Inget projekt valt"
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   android:paddingTop="5dip"
+   android:paddingBottom="4dip"
+   android:textColor="#6b6b6b"
+   android:textStyle="normal"
+   android:textSize="20sp"
+   android:typeface="sans"
+   android:gravity="center"
+    />
+
+<!-- 
+   Aktivitet
+-->
+<TextView
+   android:id="@+id/activity"
+   android:text="Ingen aktivitet vald"
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   android:textStyle="normal"
+   android:paddingTop="0dip"
+   android:paddingBottom="7dip"
+   android:textColor="#6b6b6b"
+   android:textSize="15sp"
+   android:typeface="sans"
+   android:gravity="center"
+/>
+
+<View
+    android:layout_width="fill_parent"
+    android:layout_height="1dp"
+    android:background="@android:color/darker_gray"/>
+
+
+<!-- 
+   Checkbox automatisk/manuell tidrapportering
+    android:textColor="#3D84BC"
+-->
+<CheckBox android:id="@+id/isAutomatic"
+    android:textColor="#6b6b6b"
+    android:textStyle="bold"
+          android:typeface="sans"
+	  android:text="Automatisk rapportering"
+	  android:layout_width="fill_parent"
+	  android:layout_height="wrap_content"
+	  android:paddingBottom="0dip" 
+/>
+
+<!-- 
+   Checkbox automatisk/manuell tidrapportering
+-->
+<CheckBox android:id="@+id/isVisible"
+    android:textStyle="bold"
+    android:textColor="#6b6b6b"
+          android:typeface="sans"
+	  android:text="Var synlig på karta"
+	  android:layout_width="fill_parent"
+	  android:layout_height="wrap_content"
+	  android:paddingBottom="0dip" 
+/>
+
+
+
+<!-- 
+   Logotype
+<ImageView
+   android:id="@+id/logo"
+   android:layout_width="wrap_content"
+   android:layout_height="wrap_content"
+   android:paddingTop="12px"
+   android:src="@drawable/logo_app" 
+/>
+-->
+
+</LinearLayout>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ART</string>
+    <string name="chronometer_start">Start</string>
+    <string name="chronometer_stop">Stopp</string>
+    <string name="chronometer_reset">Åerställ</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+
+  <RadioGroup
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+    android:gravity="center"
+     android:orientation="horizontal">
+    <RadioButton
+       android:id="@+id/option_list"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:checked="false"
+       android:text="Lista" />
+    <RadioButton
+       android:id="@+id/option_graph"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="Graf" />
+  </RadioGroup>
+
+<!--
+<Button
+   android:id="@+id/data_button"
+   android:layout_width="fill_parent"
+   android:layout_height="wrap_content"
+   android:text="Visa rapport"
+    android:textColor="#FFFFFF"
+    android:typeface="serif"
+    android:textSize="15sp"
+/>
+-->
+
+
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />   
+
+<SeekBar
+ android:id="@+id/xsensitive"   
+ android:layout_width="fill_parent"   
+ android:layout_height="wrap_content"   
+   android:paddingTop="5dip"
+ android:max="30"  
+ android:text="10 dagar"
+ />  
+ 
+<TextView
+  android:id="@+id/days"
+   android:text="10 dagar"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:gravity="center"
+/>
+
+</LinearLayout>

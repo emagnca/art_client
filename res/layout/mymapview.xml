@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+	      android:background="#000000"
+>
+<LinearLayout
+android:orientation="horizontal"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+>
+ <CheckBox
+  android:id="@+id/satellite"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:text=" Satelit "
+ />
+ <CheckBox
+  android:id="@+id/traffic"
+  android:layout_width="wrap_content"
+  android:layout_height="wrap_content"
+  android:text=" Trafik "
+ />
+ <LinearLayout
+android:orientation="vertical"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+>
+  <TextView
+   android:id="@+id/latitude"
+   android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:text="Lat:"
+  />
+ <TextView
+  android:id="@+id/longitude"
+  android:layout_width="fill_parent"
+  android:layout_height="wrap_content"
+  android:text="Lon:"
+  />
+ </LinearLayout>
+</LinearLayout>
+<com.google.android.maps.MapView
+ android:id="@+id/mapview"
+ android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:clickable="true"
+android:apiKey="0lAk3Q1kECy8p_KPvwLEzyMHj_b3LauYc89XLBA"
+/>
+</LinearLayout>
+
+<!-- signed android:apiKey="0lAk3Q1kECy-JvJfwOG5KvpTBXs8U0RtCzlmcHA" -->
+<!-- debug = android:apiKey="0lAk3Q1kECy8p_KPvwLEzyMHj_b3LauYc89XLBA" -->
