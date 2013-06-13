@@ -7,8 +7,8 @@ To be able to compile the project (on any Unix based OS)
 
 Short description of the code
 =============================
-There are 5 Android Activities that define the 3 different windows where the user can interact with the application. Those are:
-MyTabActivity.java - That contains the next four activity in four different tabs
+There are 5 Android Activities that define the 4 different windows where the user can interact with the application. Those are:
+MyTabActivity.java - That contains the next four activities in four different tabs
 TimeActivity.java - With the start/stop button. Will show the time worked, and different options 
 ProjectListActivity.java - Lists available projects and activities
 MapView.java - Defines the Map with the projects
