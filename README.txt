@@ -1,24 +1,7 @@
-To be able to compile the project for Android 2.2
-=================================================
-1. Install latest android
-2. Start <ANDROID_INSTALL_DIR>/tools/android, where ANDROID_INSTALL_DIR is replaced by the path to the Android installation.
-3. In the android GUI select to Install android 2.2 (api 8) -> Google APIs by Google Inc.
-4, Create a file local.properties and add the line sdk.dir=<ANDROID_INSTALL_DIR>
-5. Install ant (at least version 1.8.2)
-6. Try to compile with "ant debug". If the target is not known do 7-8 else skip those steps.
-7. Remove build.xml
-8. Type android update project -t "Google Inc.:Google APIs:8" -p .
-
-
-To create and start an emulator
-===============================
-android create avd -t "Google Inc.:Google APIs:8" -n avd1
-ANDROID_INSTALL_DIR/tools/emulator -avd avd1
-
-To install to phone or emulator
-===============================
-$ ant debug install
-
+To be able to compile the project (on any Unix based OS)
+========================================================
+1. In the android gui, install Google Inc.:Google APIs:17 or higher. Other versions might work, but ant.properties will have to be updated.
+2. Update local.properties to point to your local android installation
 
 Short description of the code
 =============================
