@@ -1,4 +1,4 @@
-For instruction about the full projects, including the server part, see http://www.autotid.nu (swedish)
+For instruction about the full project, including the server part, see http://www.autotid.nu (swedish)
 
 To be able to compile the project and install the android client (from any Unix based OS)
 =========================================================================================
