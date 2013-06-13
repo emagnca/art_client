@@ -27,5 +27,5 @@ The communication of the server is done json-formatted objects. This is handled 
 
 Each call to the server is done in a separate thread. Classes the communicate with the server delagate the call to an inner class that implements the Runnable interface, so that it is possible to start it in a new thread. Threads are kept in a thread pool.
 
-Most classes are commented.  
+
 
