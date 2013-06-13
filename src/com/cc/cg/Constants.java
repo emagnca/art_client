@@ -14,15 +14,16 @@ public class Constants {
     public static final int DATA_MODIFIED = android.app.Activity.RESULT_FIRST_USER;
 
     public static final int MAX_DISTANCE = 250;
-    public static final int POSITION_REPORT_INTERVAL = 300;
+    public static final int POSITION_REPORT_INTERVAL = 180;
     public static final int REOPEN_DELTA = 15 * 60;
     public static final int NETWORK_UPDATE_INTERVAL = 180; 
-    public static final int GPS_UPDATE_INTERVAL = 300;
+    public static final int GPS_UPDATE_INTERVAL = 180;
     public static final int MIN_NETWORK_ACCURACY = 100;
     
     public static final int MAX_TIMEREPORT_DAYS = 2;
-    public static final String DEFAULT_SERVER = "xyz.autotid.nu/art/v1/";
-    public static final int DEFAULT_USER = 12345;
+    public static final String DEFAULT_SERVER = "rtfl.autotid.nu/art/v1/";
+    public static final int DEFAULT_USER = 101;
+    public static final String DEFAULT_KEY = "206fb";
 
     public static final int SIMPLE_PROJECT_TYPE = 0;
     public static final int SIMPLE_ACTIVITY_TYPE = 1;

@@ -131,7 +131,7 @@ public class PersistentValues {
     }
 
     public String getApiKey(){
-	return _values.getString(PREF_KEY, "");
+	return _values.getString(PREF_KEY, Constants.DEFAULT_KEY);
     }
 
     public void setApiKey(String key){
