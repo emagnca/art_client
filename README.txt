@@ -1,5 +1,7 @@
-To be able to compile the project (on any Unix based OS)
-========================================================
+For instruction about the full projects, including the server part, see http://www.autotid.nu (swedish)
+
+To be able to compile the project and install the android client (from any Unix based OS)
+=========================================================================================
 1. In the android gui, install Google Inc.:Google APIs:17 or higher. Other versions might work, but ant.properties will have to be updated.
 2. Update local.properties to point to your local android installation
 3. adb debug install
