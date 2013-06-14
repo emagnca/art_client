@@ -22,7 +22,7 @@ ReportActivity.java - Shows the time reports
 The is one background service:
 LocationService.java - Receives location updates from the network/gps
 
-The is two BroadCast receivers:
+The are two broadcast receivers:
 PositionReporter.java - Started with a regular interval by the alarm service. It is responsible for updating the position to the server, and at the same time synchronize the projects and activities if necessary.
 AutoStart.java - Listens to boot up and shutdown of the phone, and handles egistration of PositionReporter at the alarm service, and startup of the LocationService is done at boot. 
 
