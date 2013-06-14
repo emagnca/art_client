@@ -1,12 +1,13 @@
-For instruction about the full project, including the server part, see http://www.autotid.nu (swedish)
+For information about the full project, including the server part, see http://www.autotid.nu (swedish)
 
-A example apk can be installed from https://github.com/emagnca/art_client/blob/master/bin/art.apk (click view raw). It is preconfigured to automatically connect to a server installation at www.autotid.nu.
+A example apk can be installed from https://github.com/emagnca/art_client/blob/master/bin/art.apk (click view raw). It is preconfigured to automatically connect to a server installation at autotid.nu.
 
 To be able to compile the project and install the android client (from any Unix based OS)
 =========================================================================================
-1. In the android gui, install Google Inc.:Google APIs:17 or higher. Other versions might work, but ant.properties will have to be updated.
+1. In the android gui, install Google Inc.:Google APIs:17 or higher (the app shall work on Android 2.2+ though). 
+   Other versions might work, but ant.properties will have to be updated.
 2. Update local.properties to point to your local android installation
-3. adb debug install
+3. ant debug install
 4. Start ART, or restart the phone. Time reporting should start shortly, if location services are activated on the phone.
 
 Short description of the code
