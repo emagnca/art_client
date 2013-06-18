@@ -1,6 +1,7 @@
+This is the ART (Automatic Reporting of Time) android client.
 
 A example apk can be installed from https://github.com/emagnca/art_client/blob/master/bin/art.apk (click view raw). 
-It is preconfigured to automatically connect to a server installation at autotid.nu.
+It is preconfigured to automatically connect to a demo server installation at autotid.nu.
 
 To be able to compile the project and install the android client (from any Unix based OS)
 =========================================================================================
